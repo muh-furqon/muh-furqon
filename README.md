@@ -49,8 +49,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/muh-furqon/count.svg?"  />
-</div>
+![Visitor Count](https://profile-counter.glitch.me/{muh-furqon}/count.svg)
+
 
 ###
