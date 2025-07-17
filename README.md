@@ -49,7 +49,5 @@
 
 ###
 
-![Visitor Count](https://profile-counter.glitch.me/{muh-furqon}/count.svg)
-
 
 ###
