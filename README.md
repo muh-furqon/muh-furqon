@@ -1,6 +1,6 @@
 <h2 align="left">Hi there👋!</h2>
 
-#### My name is Muhammad Furqon Wahyu Sasongko, a Fullstack Developer. You can call me Furqon. I'm from  Indonesia. I like to solve problem through an 'out-of-the-box' way (which is daydreaming😂).
+#### My name is Muhammad Furqon Wahyu Sasongko, a Fullstack Developer. You can call me Furqon. I'm from  Indonesia. I like to solve problem through an 'out-of-the-box' way (which is daydreaming).
 
 ###
 
