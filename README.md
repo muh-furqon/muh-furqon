@@ -5,7 +5,7 @@
 ###
 
 <div align="centlefer">
-  <img src="https://github-readme-stats.vercel.app/api?username=muh-furqon&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en" height="150" alt="stats graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muh-furqon&theme=github_dark" height="150" alt="stats graph"  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muh-furqon&theme=github_dark" height="150" alt="languages graph"  />
 </div>
 
